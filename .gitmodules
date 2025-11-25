@@ -1,3 +1,3 @@
-[submodule "nsfw-prompt-detection-sd"]
-	path = nsfw-prompt-detection-sd
+[submodule "nsfw_prompt_detection_sd"]
+	path = nsfw_prompt_detection_sd
 	url = https://github.com/jeremy-feng/nsfw-prompt-detection-sd
